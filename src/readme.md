@@ -1,1 +1,1 @@
-The C++ src files should be compiled to create the binary executable file. The perl scripts handels the intermediate processing and downloading sequences..ect
+This repository contains only the intermediat perl scripts and algoritm implemented in C++. The C++ src files should be compiled to create the binary executable file. The perl scripts handels the intermediate processing and downloading sequences..ect
