@@ -6,7 +6,7 @@ Our [web application](http://sys.bio.mtu.edu/motif/) enables plant biologists to
 
 [Published in Plant Methods Journal](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
 
-This research was presented in a poster at 2016 Research symopsium of Life Science and Technology Institute.
+This research was presented in a poster at 2016 Research symopsium of **Life Science and Technology Institute**.
 
 ![Alt text](/poster.jpg?raw=true "Poster Exact Search")
 
